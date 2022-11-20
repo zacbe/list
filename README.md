@@ -15,4 +15,5 @@
 
 ## Airbnb Pto. Morelos
 - (Casablanca II - First Floor Apartment)[https://www.airbnb.com/rooms/46412011?check_in=2022-12-04&check_out=2022-12-09&guests=1&adults=2&s=67&unique_share_id=a096340c-1acc-4240-b66e-79c28acaa560]
-- 
+- (Palapa Flor)[https://www.airbnb.com/rooms/9093646?check_in=2022-12-04&check_out=2022-12-09&guests=1&adults=2&s=67&unique_share_id=52c3ebdd-5ade-4c07-bd17-d9bec44f0c29]
+- (Ocean View Penthouse Loft)[https://www.airbnb.com/rooms/53291?check_in=2022-12-04&check_out=2022-12-09&guests=1&adults=2&s=67&unique_share_id=8f96ad49-647a-4a8e-95fe-28fdf2f915df]
